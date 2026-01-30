@@ -1,0 +1,11 @@
+AGE_LABEL,AGE_SORT,EDUC_LABEL,EDUC_SORT,Taux_chômage
+25-49 ans,2,Aucun diplôme,1,14.5
+25-49 ans,2,CAP/BEP,3,8.333333333333334
+25-49 ans,2,Baccalauréat,2,7.2
+25-49 ans,2,Bac+3 et plus,5,4.8999999999999995
+25-49 ans,2,Bac+2,4,4.166666666666667
+50-64 ans,3,Aucun diplôme,1,7.933333333333334
+50-64 ans,3,Baccalauréat,2,5.2
+50-64 ans,3,CAP/BEP,3,4.8
+50-64 ans,3,Bac+2,4,3.9
+50-64 ans,3,Bac+3 et plus,5,3.6999999999999997
